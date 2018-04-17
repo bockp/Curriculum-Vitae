@@ -3,7 +3,7 @@
 This repository contains my personal CV, in LaTeX and PDF formats.
 
 
-# Based of off the CV template LaTex document by Xavier Danaux:
+## Based of off the LaTeX CV template by Xavier Danaux:
 
 > Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
 >
